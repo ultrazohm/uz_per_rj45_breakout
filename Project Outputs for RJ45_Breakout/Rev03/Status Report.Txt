@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [Adapter.PcbDoc]
+   Generated File[Pick Place for Adapter.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 23:42:58 On 29.12.2022

@@ -1,0 +1,29 @@
+Altium Designer Pick and Place Locations
+C:\Users\ga92wum\git\12_Hardware_EAL\02_UltraZohm_Adapter\EthernetBreakout_v2\Project Outputs for RJ45_Breakout\Rev03\Pick Place\Pick Place for Adapter.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       29.12.22
+Time:       23:42
+Revision:   b59efc7bf935949430f158f37c3e56fcbbac398d
+Variant:    No variations
+Units used: mm
+
+Designator Footprint     Center-X(mm) Center-Y(mm) Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) Rotation Layer       Comment      
+J3         HDR1X4        16.2590      3.6990       20.0690   3.6990    20.0690   3.6990    180      TopLayer    "Header 4"   
+J2         HDR1X4        26.4190      3.6990       30.2290   3.6990    30.2290   3.6990    180      TopLayer    "Header 4"   
+P-pairs    HDR1X4        34.0360      25.7810      34.0360   21.9710   34.0360   21.9710   90       TopLayer    "Header 4"   
+N-pairs    HDR1X4        34.0360      12.8270      34.0360   9.0170    34.0360   9.0170    90       TopLayer    "Header 4"   
+GND        HDR2X2        33.3590      39.9560      34.6290   38.6860   34.6290   38.6860   90       TopLayer    "Header 2X2" 
+ADC2       HDR2X2        5.7150       23.2847      4.4450    24.5547   4.4450    24.5547   270      TopLayer    "Header 2X2" 
+ADC3       HDR2X2        5.7150       15.7063      4.4450    16.9763   4.4450    16.9763   270      TopLayer    "Header 2X2" 
+ADC4       HDR2X2        5.7150       8.1280       4.4450    9.3980    4.4450    9.3980    270      TopLayer    "Header 2X2" 
+ADC1       HDR2X2        5.7150       30.8630      4.4450    32.1330   4.4450    32.1330   270      TopLayer    "Header 2X2" 
+R6         RES_0603_1608 37.3770      16.2560      37.3770   16.2560   37.3770   16.9060   270      BottomLayer 0R           
+R5         RES_0603_1608 37.3770      12.8270      37.3770   12.8270   37.3770   13.4770   270      BottomLayer 0R           
+R4         RES_0603_1608 37.3770      9.3980       37.3770   9.3980    37.3770   8.7480    90       BottomLayer 0R           
+R3         RES_0603_1608 37.3770      28.9560      37.3770   28.9560   37.3770   29.6060   270      BottomLayer 0R           
+R2         RES_0603_1608 37.3770      25.7810      37.3770   25.7810   37.3770   26.4310   270      BottomLayer 0R           
+R1         RES_0603_1608 37.3770      22.6060      37.3770   22.6060   37.3770   21.9560   90       BottomLayer 0R           
+J1         RJ45_JLC      19.0530      35.3090      19.0530   35.3090   23.4980   31.8790   0        TopLayer    RJ45_JLC     
