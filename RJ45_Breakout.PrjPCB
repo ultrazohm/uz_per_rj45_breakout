@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=1
-OutputPath=
+OutputPath=Project Outputs for RJ45_Breakout
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -43,6 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Default
 
 [Preferences]
 PrefsVaultGUID=
@@ -131,7 +132,21 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JDBZEJZN
+
+[ProjectVariant1]
+UniqueID=208928C0-17FF-4D08-A1AE-0DF9DD7C1B67
+Description=Default
+AllowFabrication=0
+ParameterCount=0
+VariationCount=6
+Variation1=Designator=R6|UniqueId=\QIUXLAZB|Kind=1|AlternatePart= 
+Variation2=Designator=R4|UniqueId=\SSLJZESQ|Kind=1|AlternatePart= 
+Variation3=Designator=R5|UniqueId=\HNCPJYJR|Kind=1|AlternatePart= 
+Variation4=Designator=R2|UniqueId=\ZDVYORAM|Kind=1|AlternatePart= 
+Variation5=Designator=R3|UniqueId=\SZYRULXW|Kind=1|AlternatePart= 
+Variation6=Designator=R1|UniqueId=\EFVZEODG|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [Parameter1]
 Name=AuthorParam
@@ -160,7 +175,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for RJ45_Breakout
 
 [OutputGroup1]
 Name=Netlist Outputs
